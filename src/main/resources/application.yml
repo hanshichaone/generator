@@ -1,0 +1,5 @@
+#app 全局唯一id生成
+app:
+  idGenerator:
+    workerId: 1
+    datacenterId: 0
